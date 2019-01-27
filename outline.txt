@@ -1,0 +1,13 @@
+1-Eğitimin amacı
+2-Node JS Giriş
+3-MongoDB Giriş
+4-Express Giriş
+6-Express Api Mimari Tasarımı
+9-Static Folder Paylaşımı
+10-Get Method PAylaşımı
+11-Post Method PAylaşımı
+12-Açık ortak route PAylaşımı
+13-Authentifike Route Tasarımı
+7-Mongo DB Security Eklentileri
+8-Loglama Mekanizması
+
